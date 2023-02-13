@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
+  "getting-started": "Getting Started",
+  "cairo": "Cairo",
+  "exchange": "Exchange",
+  "eternum": "Eternum",
+  "cli": "CLI",
+  "loot": "Loot",
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/lootrealms",
     "newWindow": true
   }
 }
